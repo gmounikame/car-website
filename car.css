@@ -1,0 +1,241 @@
+body {
+    background-color: #f0f0f0 !important;
+  }
+  /*search box style*/
+      #tfheader{
+          background-color:#fff;
+      }
+      #tfnewsearch{
+          padding:20px;
+      }
+      .tftextinput2{
+          margin: 0;
+          padding: 5px 15px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size:14px;
+          color:#666;
+          border:1px solid #0076a3; 
+      border-right:0px;
+          border-top-left-radius: 5px 5px;
+          border-bottom-left-radius: 5px 5px;
+      }
+      .tfbutton2 {
+          margin: 0;
+          padding: 5px 7px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size:14px;
+          font-weight:bold;
+          outline: none;
+          cursor: pointer;
+          text-align: center;
+          text-decoration: none;
+          color: #ffffff;
+          border: solid 1px #0076a3; border-right:0px;
+          background: #0095cd;
+          background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+          background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+          border-top-right-radius: 5px 5px;
+          border-bottom-right-radius: 5px 5px;
+      }
+      .tfbutton2:hover {
+          text-decoration: none;
+          background: #007ead !important;
+          background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+          background: -moz-linear-gradient(top,  #0095cc,  #00678e);
+      }
+      /* Fixes submit button height problem in Firefox */
+      .tfbutton2::-moz-focus-inner {
+        border: 0;
+      }
+      .tfclear{
+          clear:both;
+      }
+  /*find your car*/
+  #search{
+    margin:auto;
+    width:400px;
+      box-shadow:0px 0px 10px #000;
+        -webkit-box-shadow:0px 0px 10px #000;
+  
+  }
+  /*slider style*/
+  #sliderPic{
+    height:800px;
+    width:100%;
+  }
+  #blueBar{
+    background-color:#0973ba;
+    height:11.34px;
+    width:100%;
+  }
+  #bgcolor{
+    background-color:#fff;
+  }
+  #logo{
+    width:291px;
+    color:#0973ba;
+      font-family: Microsoft Uighur;
+    text-align:center;
+    padding-left:30px;
+    padding-top:1px;
+    marging-top:0px;
+  }
+  #logo1 {
+    height: 50px;
+    font-size: 70px;
+  }
+  #sublogo {
+    font-size: 25px;
+    height: 20px;
+  }
+  a.navbar-brand{
+    margin:0px;
+    padding:0px;
+  }
+  #nav1{
+    font-weight:bold;
+  }
+  #nav2{
+    color:#555;
+  }
+  .navbar-nav>li>a{
+    color:#555;
+  }
+  .navbar-nav>li>a:hover{
+    color:#0973ba;
+  }
+  .carousel-caption{
+    text-align:right !important;
+  }
+  #blueBG{
+    background-color:#0973ba;
+      font-size:24px;
+    width:30%;
+    text-align:center;
+  }
+  #blackBG{
+      background-color:#000;
+    opacity:0.8;
+      font-size:35px;
+    width:55%;
+    text-align:center;
+  }
+  button.btn.btn-default {
+      width: 100%;
+    padding-top: 5px;
+    margin-top: 7px;
+    padding-botton:12px ;
+    margin-botton:12px;
+  }
+  #last-page{
+    background-color:#075a92;
+  }
+  input:hover {
+      border: 2px solid #DB805A;
+      border-radius: 5px;
+  }
+  button:hover{
+    border: 2px solid #DB805A;
+      border-radius: 5px;
+  }
+  input{
+    height:30px;
+  }
+  textarea{
+    width:182px;
+    height:70px;
+    padding-top:10px;
+  }
+  textarea:hover{
+    border: 2px solid #DB805A;
+      border-radius: 5px;
+  }
+  .font{
+    color:#fff !important;
+  }
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+  span.glyphicon.glyphicon-envelope{
+    color:#397ba8 !important;
+  }
+  span.glyphicon-home{
+    color:#397ba8 !important;
+  }
+  span.glyphicon-earphone{
+    color:#397ba8 !important;
+  }
+  #font-color{
+    color:#f58428;
+    font-size:25px;
+  }
+  ul{
+    padding-right:50px;
+  }
+  img#pic1.img-thumbnail{
+    width:782.4px !important;
+    height:500 !important;
+  }
+  img#pic.img-thumbnail{
+  width:391.2px !important;
+    height:250 !important;  
+  }
+  #tbl{
+      border:1px solid #676666;
+  }
+  #th{
+     background-color:#0973ba;
+    color:white;
+  }
+  #td{
+    background-color:#f7f7f7 !important;
+      height:200px !important;
+  }
+  .icon-bar{
+  background-color:#0973ba !important;
+  }
+  #pad-space{
+    padding-right:50px;
+    padding-left:50px;
+  }
+  #newbg{
+  background-color:#0973ba;  
+   color:#fff;
+  }
+  #certifiedbg{
+    background-color:#f58428; 
+    color:#fff;
+  }
+  #usedbg{
+    background-color:#963d81;  
+    color:#fff;
+  }
+  #selling{
+    width:300.2px !important;
+    margin:auto;
+  }
+  #sell-your-car{
+    background-color:#0973ba;
+    height:262px;
+    margin-top:15px;
+  }
+  #sign-in{
+    background-color:#f58428;
+    height:262px;
+    margin-top:15px;
+  }
+  .btnWide{
+     margin: auto;
+    width: 200px !important;
+  }
+  footer{
+    padding-bottom:20px;
+    padding-left:50px;
+    color:#fff;
+  }
